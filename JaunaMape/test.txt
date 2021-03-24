@@ -1,4 +1,4 @@
-$ git checkout master
+ls$ git checkout master
 $ git merge hotfix
 Updating f42c576..3a0874c
 Fast-forward
