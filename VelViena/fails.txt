@@ -1,0 +1,4 @@
+vim testfile
+	[change the buffer with editor commands]
+	:w newfile
+	:q
